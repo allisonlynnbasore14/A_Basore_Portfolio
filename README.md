@@ -15,7 +15,10 @@ After graduating from Centre High School, I wanted to find a way to give back to
 
 ## Facial Recognition
 
-This project was to build a facial recognition algoritum suing eigenfaces and matrix analysis.
+This project used linear algebra to create, test, analyze, and revise a facial recognition software program. We trained an algorithm on a set uniform images and tested it on random images Principal Component Analysis (PCA). Then we tested all available images to determine an accuracy and efficiency measure. Overall, we found that a voting system among a combination of derivative and eigenface algorithms results in little efficiency. We also found that using the largest variance of the derivative of an image (change in pixels), results in a lower accuracy than the unprocessed image.
+
+The following is a link to our project report:
+[Project Report]( https://drive.google.com/file/d/0B35DnGzS4dRKTjBsRUZnMlpHRFE/view?usp=sharing)
 
 
 ```markdown
