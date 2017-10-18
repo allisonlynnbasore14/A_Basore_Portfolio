@@ -2,9 +2,13 @@
 
 As a student at Olin College of Engineering, I have been contributed to numerous projects. Of the following project descriped, some are personal projects others are for class work and a few are for a working position. 
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Quarter Quizzes: A Web Platform for Boosting High School Student's Test Scores 
+
+# Description:
+ 
+ After graduating from Centre High School, I wanted to find a way to give back to the school. I combined my knowledge of standarized testing to my web development skills to make an online quiz platform. The program had students create accounts and work through a series of quizzes (50 in total). The quizzes were based on the ACT's mathmaics test patterns.
 
 ```markdown
 Syntax highlighted code block
