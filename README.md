@@ -3,7 +3,7 @@
 As a student at Olin College of Engineering, I have been contributed to numerous projects. The following project are example of my work as a software engineering so far. Of the projects included below, some are personal projects others are for class work and a few are for a working position.
 
 # Resume
-https://drive.google.com/file/d/0B35DnGzS4dRKZ1gzcFBtRVZJQ3c/view?usp=sharing
+(https://drive.google.com/file/d/0B35DnGzS4dRKZ1gzcFBtRVZJQ3c/view?usp=sharing)
 
 # Projects
 
