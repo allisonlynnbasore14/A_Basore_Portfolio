@@ -2,6 +2,9 @@
 
 As a student at Olin College of Engineering, I have been contributed to numerous projects. The following project are example of my work as a software engineering so far. Of the projects included below, some are personal projects others are for class work and a few are for a working position.
 
+# Resume
+https://drive.google.com/file/d/0B35DnGzS4dRKZ1gzcFBtRVZJQ3c/view?usp=sharing
+
 # Projects
 
 ## Quarter Quizzes
@@ -24,6 +27,14 @@ The following is a link to our project report:
 This project used Markov Chain analysis to create computer generated music based off an inputed song. We also incoperated music theory to create a better melody. This project was writted in Python. The following is a link to our website that descripes the project.
 
 [Project Website](https://allisonlynnbasore14.github.io/ComputerMusic/program)
+
+## Parlinet
+
+During the summer of 2017, I worked at a start-up called Parlinet. Parlinet was created as a platform that would allow citizens to connect with local politicans with online conversation and suggestions.
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
