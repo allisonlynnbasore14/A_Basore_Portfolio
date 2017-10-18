@@ -2,8 +2,25 @@
 
 As a student at Olin College of Engineering, I have been contributed to numerous projects. The following project are example of my work as a software engineering so far. Of the projects included below, some are personal projects others are for class work and a few are for a working position.
 
-# Resume
+```markdown
+Syntax highlighted code block
+
+# About Me
+
+### Resume
 [Allison Basore Resume](https://drive.google.com/file/d/0B35DnGzS4dRKZ1gzcFBtRVZJQ3c/view?usp=sharing)
+
+### Education
+- Olin College of Engineering (Aug 2016 - May 2020)
+- Centre High School (Aug 2012 - May 2016)
+
+## Major
+Electrical and Computer Eningeering
+
+## Contact
+allison.basore@students.olin.edu
+
+```
 
 # Projects
 
@@ -39,30 +56,3 @@ This project was to use physics and calculus principals to create a boat design.
 Below is a link to our full project report:
 [Project Report]( https://drive.google.com/file/d/0B35DnGzS4dRKM3FGTW1tT0ZrMGc/view?usp=sharing)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allisonlynnbasore14/A_Basore_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
