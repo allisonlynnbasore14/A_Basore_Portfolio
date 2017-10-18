@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-As a student at Olin College of Engineering, I have been contributed to numerous projects. Of the following project descriped, some are personal projects others are for class work and a few are for a working position. 
+As a student at Olin College of Engineering, I have been contributed to numerous projects. The following project are example of my work as a software engineering so far. Of the projects included below, some are personal projects others are for class work and a few are for a working position.
 
 # Projects
 
@@ -11,8 +11,11 @@ As a student at Olin College of Engineering, I have been contributed to numerous
  
 After graduating from Centre High School, I wanted to find a way to give back to the school. I combined my knowledge of standarized testing to my web development skills to make an online quiz platform. The program had students create accounts and work through a series of quizzes (50 in total). The quizzes were based on the ACT's mathmaics test patterns. Currently the program is in beta testing at Centre High Shchool. Figure A is an image of an example homescreen.
 
-![GitHub Logo](/QQpic.JPG)
+![GitHub Logo](/QQpicFinal.JPG)
 
+## Facial Recognition
+
+This project was to build a facial recognition algoritum suing eigenfaces and matrix analysis.
 
 
 ```markdown
