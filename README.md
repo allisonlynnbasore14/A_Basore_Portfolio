@@ -10,12 +10,7 @@ As a student at Olin College of Engineering, I have been contributed to numerous
  
 After graduating from Centre High School, I wanted to find a way to give back to the school. I combined my knowledge of standarized testing to my web development skills to make an online quiz platform. The program had students create accounts and work through a series of quizzes (50 in total). The quizzes were based on the ACT's mathmaics test patterns. Currently the program is in beta testing at Centre High Shchool. Figure A is an image of an example homescreen.
 
-
-img[alt=/QQpic.JPG] {
-  width: 70%;
-  border: none;
-  background: none;
-}
+![GitHub Logo](/QQpic.JPG)
 
 ```markdown
 Syntax highlighted code block
