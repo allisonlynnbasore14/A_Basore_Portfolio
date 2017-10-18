@@ -4,13 +4,16 @@ As a student at Olin College of Engineering, I have been contributed to numerous
 
 # Projects
 
-## Quarter Quizzes: A Web Platform for Boosting High School Student's Test Scores 
+## Quarter Quizzes
 
 ### Description:
+ Quarter Quizzes is Web Platform for Boosting High School Student's Test Scores 
  
 After graduating from Centre High School, I wanted to find a way to give back to the school. I combined my knowledge of standarized testing to my web development skills to make an online quiz platform. The program had students create accounts and work through a series of quizzes (50 in total). The quizzes were based on the ACT's mathmaics test patterns. Currently the program is in beta testing at Centre High Shchool. Figure A is an image of an example homescreen.
 
 ![GitHub Logo](/QQpic.JPG)
+
+
 
 ```markdown
 Syntax highlighted code block
