@@ -20,6 +20,10 @@ This project used linear algebra to create, test, analyze, and revise a facial r
 The following is a link to our project report:
 [Project Report]( https://drive.google.com/file/d/0B35DnGzS4dRKTjBsRUZnMlpHRFE/view?usp=sharing)
 
+## Computer Generated Music
+This project used Markov Chain analysis to create computer generated music based off an inputed song. We also incoperated music theory to create a better melody. This project was writted in Python. The following is a link to our website that descripes the project.
+
+[Project Website](https://allisonlynnbasore14.github.io/ComputerMusic/program)
 
 ```markdown
 Syntax highlighted code block
