@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio
 
-You can use the [editor on GitHub](https://github.com/allisonlynnbasore14/A_Basore_Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As a student at Olin College of Engineering, I have been contributed to numerous projects. Of the following project descriped, some are personal projects others are for class work and a few are for a working position. 
 
 ### Markdown
 
