@@ -8,7 +8,7 @@ As a student at Olin College of Engineering, I have been contributed to numerous
 About Me
 
 Resume
-https://drive.google.com/file/d/0B35DnGzS4dRKZ1gzcFBtRVZJQ3c/view?usp=sharings
+(https://drive.google.com/file/d/0B35DnGzS4dRKZ1gzcFBtRVZJQ3c/view?usp=sharings)
 
 Education
 - Olin College of Engineering (Aug 2016 - May 2020)
