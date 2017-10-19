@@ -3,12 +3,12 @@
 As a student at Olin College of Engineering, I have been contributed to numerous projects. The following project are example of my work as a software engineering so far. Of the projects included below, some are personal projects others are for class work and a few are for a working position.
 
 ```markdown
-Syntax highlighted code block
+
 
 About Me
 
 Resume
-[Allison Basore Resume](https://drive.google.com/file/d/0B35DnGzS4dRKZ1gzcFBtRVZJQ3c/view?usp=sharing)
+https://drive.google.com/file/d/0B35DnGzS4dRKZ1gzcFBtRVZJQ3c/view?usp=sharings
 
 Education
 - Olin College of Engineering (Aug 2016 - May 2020)
