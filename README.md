@@ -5,19 +5,19 @@ As a student at Olin College of Engineering, I have been contributed to numerous
 ```markdown
 Syntax highlighted code block
 
-# About Me
+About Me
 
-### Resume
+Resume
 [Allison Basore Resume](https://drive.google.com/file/d/0B35DnGzS4dRKZ1gzcFBtRVZJQ3c/view?usp=sharing)
 
-### Education
+Education
 - Olin College of Engineering (Aug 2016 - May 2020)
 - Centre High School (Aug 2012 - May 2016)
 
-## Major
+Major
 Electrical and Computer Eningeering
 
-## Contact
+Contact
 allison.basore@students.olin.edu
 
 ```
