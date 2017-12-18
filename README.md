@@ -49,6 +49,15 @@ This project used Markov Chain analysis to create computer generated music based
 
 [Project Website](https://allisonlynnbasore14.github.io/ComputerMusic/program)
 
+
+## Inverted Pendulum
+In order to study the dynamics of an inverted pendulum, this project was to run a small inverted pendulum. Here is a link to the paper: https://drive.google.com/file/d/1wNcd3TegXH5mXaRxdjgquzfQN_YBoV53/view?usp=sharing
+
+## Sleeping Analysis
+Using accelerometer data and machine learning, we made an algorithm to perform sleeping safety analysis tool. 
+Here is a link our website: https://allisonlynnbasore14.github.io/SleepAnalysis/
+
+
 ## Parlinet
 
 During the summer of 2017, I worked at a start-up called Parlinet. Parlinet was created as a platform that would allow citizens to connect with local politicans with online conversation and suggestions.
