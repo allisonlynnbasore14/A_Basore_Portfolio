@@ -53,6 +53,9 @@ This project used Markov Chain analysis to create computer generated music based
 
 During the summer of 2017, I worked at a start-up called Parlinet. Parlinet was created as a platform that would allow citizens to connect with local politicans with online conversation and suggestions.
 
+## 3D Scanner
+
+We made a 3D scanner that pans and tilts. Using an IR scanner, we were able to get a 3D scan of the surrounding area. Here is a link to the project paper: https://drive.google.com/file/d/1sgE_qofLeFzdnvi1uIsvmBmj1V9-GwvT/view?usp=sharing.
 
 ## Boat Modeling
 This project was to use physics and calculus principals to create a boat design. We then used Mathmatica, Solidworks, and a laser cutter to model and fabricate our boat. We tested our boat for flatness (to have the deck parallel to water), if it could float with a weight load, and for its angle of vanishing stability (AVS) to be between 120 and 140 degrees. Our report is arranged to follow our process used to create this boat. This report will go over general terminology and design considerations such as calculations for center of mass (COM), center of buoyancy (COB), and our calculated AVS with graphical representation. It will also describe the boat performance. The last section will present our redesign suggestions which are imperative for the further success of boats like ours.
